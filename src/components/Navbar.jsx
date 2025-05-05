@@ -28,7 +28,7 @@ const Navbar = () => {
             <div className="container mx-auto px-4">
                 <div className="navbar-box flex items-center justify-between">
                     <div className="logo">
-                        <h1 className="sm:text-2xl text-xltext-2xl font-bold">Ngoding.</h1>
+                        <h1 className="sm:text-2xl text-xltext-2xl font-bold text-sky-700">Jaringkarya.</h1>
                     </div>
                     <ul
                         className={`flex lg:gap-12 gap-8 fixed md:static md:bg-transparent md:p-0 md:m-0 md:transition-none md:w-auto md:h-full md:translate-y-0 md:text-black md:flex-row md:shadow-none ${menuActive} top-1/2 -translate-y-1/2 flex-col px-8 py-6 rounded shadow-lg shadow-slate-300 bg-sky-400 font-bold text-white transition-all`}>
